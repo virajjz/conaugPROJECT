@@ -1,0 +1,24 @@
+{
+  "restaurants": [
+    {
+      "name": "Increadible Restaurant",
+      "email": "incredible@gmail.com",
+      "address": "mapusa goa",
+      "id": 3
+    }
+  ],
+  "signup": [
+    {
+      "name": "viraj",
+      "email": "hgghmgg@gmail.com",
+      "password": "ghhhhhhhhhhhhhh",
+      "id": 1
+    },
+    {
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "password": "12324565",
+      "id": 2
+    }
+  ]
+}
